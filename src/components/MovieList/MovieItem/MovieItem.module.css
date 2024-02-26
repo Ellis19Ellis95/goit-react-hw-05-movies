@@ -3,14 +3,14 @@
 	border: 1px solid black;
 	border-radius: 12px;
 	transition: all 300ms ease-in-out;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 4px 8px rgba(122, 53, 106, 0.924);
 	height: 350px;
 }
 
 .movie_item:hover,
 .movie_item:focus {
 	transform: scale(1.03);
-	box-shadow: 0 4px 8px rgba(122, 53, 106, 0.924);
+	box-shadow: 0 4px 8px rgba(73, 6, 57, 0.924);
 }
 
 .movie_img {

@@ -14,8 +14,8 @@
 .cast_item {
 	width: 150px;
 	border: 1px solid black;
-	border-radius: 1px;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+	box-shadow: 0 4px 8px rgb(155, 62, 62);
 	padding: 10px;
 }
 
